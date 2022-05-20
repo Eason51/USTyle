@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">USTyle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_label1">Freshman</string>
+    <string name="tab_label2">Dining</string>
+    <string name="tab_label3">Living</string>
+    <string name="tab_label4">Workout</string>
+    <string name="tab_label5">Study</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="comments_example">Tastes good. \nHighly recommended.</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="get_verify_code_btn">Get Verify Code</string>
+    <string name="verify_code_placeholder">Verify code</string>
+    <string name="itsc_placeholder">itsc</string>
+    <string name="username_placeholder">Username</string>
+    <string name="email_end_text">\@connect.ust.hk</string>
+
+    <string-array name="card_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+    </string-array>
+
+    <string-array name="usernames">
+        <item>Jack</item>
+        <item>Monica</item>
+        <item>Tom</item>
+        <item>Jay</item>
+        <item>Catherine</item>
+        <item>Kate</item>
+    </string-array>
+
+    <array name="card_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+    </array>
+
+
+</resources>
